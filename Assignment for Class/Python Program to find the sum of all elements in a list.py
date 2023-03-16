@@ -1,0 +1,13 @@
+number = input('Enter your number you want to input: (limit is 10 numbers').split()
+zero = int(number[0])
+one = int(number[1])
+two = int(number[2])
+three = int(number[3])
+four = int(number[4])
+five = int(number[5])
+six = int(number[6])
+seven = int(number[7])
+eight = int(number[8])
+nine = int(number[9])
+total = one + two + three + four + five + six + seven + eight + nine
+print('Here are the sum of all the number that you have input:', total)
