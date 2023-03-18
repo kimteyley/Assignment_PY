@@ -1,4 +1,4 @@
-number = input('Enter your number you want to input: (limit is 10 numbers').split()
+number = input('(*Limit is 10 Number) Enter your number you want to input: ').split()
 zero = int(number[0])
 one = int(number[1])
 two = int(number[2])
